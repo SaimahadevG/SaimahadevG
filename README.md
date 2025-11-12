@@ -35,7 +35,7 @@ I’m a passionate backend developer focused on building reliable and scalable s
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sai-mahadev-g-123a801b3/)) 
-- ✉️ Reach me at: *(saimahadevg@gmail.com)*  
+- ✉️ Reach me at: saimahadevg@gmail.com 
 
 ---
 
