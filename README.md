@@ -63,9 +63,9 @@ focusing on:
 
 ---
 
-### 📊 GitHub Analytics (This Year Only)
+### 📊 GitHub Analytics (All-time)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaimahadevG&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&custom_title=2025%20GitHub%20Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaimahadevG&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimahadevG&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
@@ -86,12 +86,6 @@ focusing on:
   <a href="https://github.com/SaimahadevG" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaimahadevG&style=for-the-badge&color=blue" alt="Profile Views Counter"/>
 </p>
 
 ---
