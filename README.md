@@ -29,17 +29,13 @@ I’m a passionate backend developer focused on building reliable and scalable s
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Sai's GitHub stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
-</p>
+
 
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your profile link here)*  
-- ✉️ Reach me at: *(optional email or portfolio link)*  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sai-mahadev-g-123a801b3/)) 
+- ✉️ Reach me at: *(saimahadevg@gmail.com)*  
 
 ---
 
