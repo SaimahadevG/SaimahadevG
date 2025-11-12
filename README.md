@@ -63,14 +63,6 @@ focusing on:
 
 ---
 
-### 📊 GitHub Analytics (All-time)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaimahadevG&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimahadevG&layout=compact&theme=tokyonight" height="160px" />
-</p>
-
----
-
 ### 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaimahadevG&theme=tokyo-night&area=true" alt="GitHub Activity Graph" />
