@@ -66,12 +66,14 @@ focusing on:
 
 ---
 
-### 📊 GitHub Analytics (All-time)
 # 📊 GitHub Stats:
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SaimahadevG&theme=dark&hide_border=false" alt="GitHub Streak Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimahadevG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
+</p>
+
+
 
 ---
 
