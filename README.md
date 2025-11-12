@@ -1,10 +1,14 @@
-# 👋 Hi there, I'm Sai Mahadev Gande  
+<!-- Profile Header -->
+<h1 align="center">👋 Hi there, I'm Sai Mahadev Gande</h1>
+<h3 align="center">💻 Software Engineer | Backend Developer | Cloud Enthusiast</h3>
 
-💻 **Software Engineer** from Hyderabad, India  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Backend+Engineer+from+Hyderabad;Building+Scalable+Systems;Exploring+Cloud+Native+Architectures;Always+Learning+New+Tech!" alt="Typing Animation" />
+</p>
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 I’m a passionate backend developer focused on building reliable and scalable systems.  
 I love exploring new tools, optimizing performance, and designing clean architectures that scale smoothly in production environments.  
 
@@ -39,24 +43,43 @@ I love exploring new tools, optimizing performance, and designing clean architec
 
 ---
 
-### 🚀 What I Do
+### 🚀 What I Do  
 - Design and develop RESTful APIs and microservices  
 - Work with CI/CD pipelines and containerized applications  
 - Explore distributed system design and performance optimization  
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics (This Year Only)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaimahadevG&show_icons=true&theme=tokyonight" alt="Sai's GitHub stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimahadevG&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaimahadevG&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&include_all_commits=false&count_private=true&custom_title=This%20Year%20Stats&line_height=24" alt="Sai's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimahadevG&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-mahadev-g-123a801b3/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaimahadevG)
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaimahadevG&theme=tokyo-night&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-mahadev-g-123a801b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SaimahadevG" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaimahadevG&style=for-the-badge&color=blue" alt="Profile Views Counter"/>
+</p>
 
 ---
 
