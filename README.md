@@ -50,14 +50,6 @@ I love exploring new tools, optimizing performance, and designing clean architec
 
 ---
 
-### 📊 GitHub Analytics (This Year Only)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaimahadevG&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&include_all_commits=false&count_private=true&custom_title=This%20Year%20Stats&line_height=24" alt="Sai's GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimahadevG&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
-</p>
-
----
-
 ### 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaimahadevG&theme=tokyo-night&area=true" alt="GitHub Activity Graph" />
@@ -77,10 +69,5 @@ I love exploring new tools, optimizing performance, and designing clean architec
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaimahadevG&style=for-the-badge&color=blue" alt="Profile Views Counter"/>
-</p>
-
----
 
 ⭐️ _“Keep building, keep scaling, keep learning.”_
