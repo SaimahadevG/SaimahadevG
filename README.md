@@ -67,10 +67,10 @@ focusing on:
 ---
 
 ### 📊 GitHub Analytics (All-time)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaimahadevG&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimahadevG&layout=compact&theme=tokyonight" height="160px" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaimahadevG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SaimahadevG&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaimahadevG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
