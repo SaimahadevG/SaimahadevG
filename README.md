@@ -1,6 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi there, I'm Sai Mahadev Gande</h1>
-<h3 align="center">💻 Software Engineer | Backend Developer | DevOps Enthusiast</h3>
+<h3 align="center">
+💻 Software Engineer | Backend Developer | DevOps Enthusiast | ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=480&lines=Backend+Engineer+from+Hyderabad;Building+Monolithic+%26+Scalable+Systems;Exploring+DevOps+Practices+and+Automation;Passionate+About+Backend+Excellence!" alt="Typing Animation" />
@@ -13,7 +15,17 @@ I’m a passionate backend developer focused on building **reliable, efficient, 
 I enjoy optimizing application performance, automating workflows, and integrating DevOps principles to streamline deployment and delivery processes.  
 
 ⚙️ Currently working on building **scalable backend systems**  
-🔧 Exploring **DevOps practices, CI/CD automation, and container orchestration**
+🔧 Exploring **DevOps practices, CI/CD automation, and container orchestration**  
+☁️ **AWS Certified Cloud Practitioner (CLF-C02)** with strong foundational knowledge of cloud concepts, security, and pricing
+
+---
+
+### 🏆 Certifications  
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+- **AWS Certified Cloud Practitioner (CLF-C02)**  
+  *Validated understanding of AWS Cloud concepts, core services, security, architecture, pricing models, and shared responsibility.*
 
 ---
 
@@ -25,7 +37,7 @@ focusing on:
 - CI/CD automation using Jenkins, Docker, and Kubernetes  
 - Observability and reliability through containerized deployments  
 
-💡 Currently exploring **DevOps pipelines, automation, and monitoring tools** to bridge development and operations efficiently.
+💡 Currently exploring **DevOps pipelines, automation, monitoring tools, and AWS services** to bridge development and operations efficiently.
 
 ---
 
@@ -62,7 +74,7 @@ focusing on:
 - Design and develop **RESTful APIs** with Spring Boot  
 - Implement **caching strategies** using Redis for performance optimization  
 - Automate **CI/CD pipelines** with Jenkins and containerized environments  
-- Explore **DevOps tools** for deployment automation, scaling, and monitoring  
+- Apply **AWS Cloud fundamentals** for scalable and cost-efficient deployments  
 
 ---
 
@@ -72,8 +84,6 @@ focusing on:
   <img src="https://nirzak-streak-stats.vercel.app/?user=SaimahadevG&theme=dark&hide_border=false" alt="GitHub Streak Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimahadevG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
-
-
 
 ---
 
